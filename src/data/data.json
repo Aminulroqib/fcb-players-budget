@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "salary": 127,
+        "image": "https://assets.laliga.com/squad/2020/t178/p19054/2048x2048/p19054_t178_2020_1_002_000.jpg"
+      }, {
+        "id": 2,
+        "name": "Antoine Griezmann",
+        "salary": 88,
+        "image": "https://s.hs-data.com/bilder/spieler/gross/153546.jpg"
+      }, {
+        "id": 3,
+        "name": "Ansu Fati",
+        "salary": 41,
+        "image": "https://dailypost.ng/wp-content/uploads/2020/08/8FE9B41E-EFFD-4D61-A2D1-88D6B973FD44.jpeg"
+      }, {
+        "id": 4,
+        "name": "Cristiano Ronaldo",
+        "salary": 92,
+        "image": "https://i.pinimg.com/originals/2c/e2/08/2ce2083a6bd264bdc4a35778f52af1a5.jpg"
+      }, {
+        "id": 5,
+        "name": "Neymar da Silva Santos Júnior",
+        "salary": 96,
+        "image": "https://s.hs-data.com/bilder/spieler/gross/142105.jpg"
+      }, {
+        "id": 6,
+        "name": "Luis Alberto Suárez",
+        "salary": 90,
+        "image": "https://assets.laliga.com/squad/2020/t175/p39336/2048x2048/p39336_t175_2020_1_002_000.jpg"
+      }, {
+        "id": 7,
+        "name": "Pedro González",
+        "salary": 70,
+        "image": "https://images.daznservices.com/di/library/GOAL/3f/73/pedri-barcelona_1a5j0i1idpw5q1jngpsjep4prd.jpg?t=737580869&quality=100"
+      }, {
+        "id": 8,
+        "name": "Jamal Bhuyan",
+        "salary": 90,
+        "image": "https://observerbd.com/2020/11/04/observerbd.com_1604506354.jpg"
+      }, {
+        "id": 9,
+        "name": "Ilaix Moriba",
+        "salary": 70,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSnItY0lzsrlvomcZtgGRr1h79pFMznnTbAg&usqp=CAU"
+      }, {
+        "id": 10,
+        "name": "Santiago Ramos Mingo",
+        "salary": 60,
+        "image": "https://www.fcbarcelona.com/photo-resources/2020/11/12/210d4a71-f0b2-4abb-912c-ed2e493e56e3/mini_1920x1080-Barca_B-Santiago.jpg?width=1200&height=750"
+      }, {
+        "id": 11,
+        "name": "Marc-André ter Stegen",
+        "salary": 80,
+        "image": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcTsB6MVZlKsS_5VeszaG1x4zaFMpvdp7HGVq3jZqD1qTOgzFvCd5ioflgeJsE4L"
+      }, {
+        "id": 12,
+        "name": "Norberto Murara Neto",
+        "salary": 64,
+        "image": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRVC1nhc_XXbsJICUUcdCCAkaKqozm2TDr63EEzCzI_cB_8A2dcB2bUgYPG3RNk"
+      }, {
+        "id": 13,
+        "name": "Gonzalo Higuaín",
+        "salary": 65,
+        "image": "http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSLcDRY3FsR4s_3MPJrA0R4uZKMg20TW_6Z6kLF9GICxdrtAly-PR7SvYXIG6EM"
+      }, {
+        "id": 14,
+        "name": "Kylian Mbappé Lottin",
+        "salary": 101,
+        "image": "https://s.hs-data.com/bilder/spieler/gross/284095.jpg"
+      }, {
+        "id": 15,
+        "name": "Javier Mascherano",
+        "salary": 97,
+        "image": "https://s.hs-data.com/bilder/spieler/gross/22185.jpg"
+      }
+]

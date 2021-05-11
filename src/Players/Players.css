@@ -1,0 +1,17 @@
+.card{
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: lightgray;
+    height: 250px;
+    width: 250px;
+    float: left;
+    Padding: 5px;
+    Margin: 5px
+}
+.card img{
+    height: 100px;
+    width: 100px;
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px
+}
